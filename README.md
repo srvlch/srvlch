@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @srvlch
+- 👋 Hi, I’m Saurav.
 - 👀 I’m interested in Angular.
 - 💞️ I’m looking to collaborate on Angular projects.
 - 📫 How to reach me - Loach47@gmail.com
